@@ -1,2 +1,2 @@
 # CustomThemeJetpackCompose
-Example of customized Material Theme in Jetpack Compose
+Example of a customized Material Theme in Jetpack Compose
